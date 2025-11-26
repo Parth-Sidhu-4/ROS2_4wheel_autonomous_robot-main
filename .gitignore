@@ -1,0 +1,13 @@
+build/
+install/
+log/
+.colcon/
+*.pyc
+__pycache__/
+*.bak
+*.swp
+*.zip
+*.mp4
+*.gif
+*.webm
+
