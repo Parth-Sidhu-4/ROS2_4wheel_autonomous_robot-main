@@ -138,6 +138,6 @@ Faculty Mentor: Dr. Asifa Yesmin
 
 * [Parth Sidhu](https://github.com/Parth-Sidhu-4)  
 * [Shreya Mohanty](https://github.com/ShreyaPMohanty6)
-* Srijan Gupta  
+* [Srijan Gupta] (https://github.com/srijangupta19)
 * Aashutosh Raj Verma  
 * Abhinandan Singh
