@@ -136,8 +136,8 @@ Faculty Mentor: Dr. Asifa Yesmin
 
 ### **👤 Contributors**
 
-* Parth Sidhu  
-* Shreya Mohanty  
+* [Parth Sidhu](https://github.com/Parth-Sidhu-4)  
+* [Shreya Mohanty](https://github.com/ShreyaPMohanty6)
 * Srijan Gupta  
 * Aashutosh Raj Verma  
 * Abhinandan Singh
